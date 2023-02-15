@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Pluto';
+    src: url('PlutoBold.eot');
+    src: url('PlutoBold.eot?#iefix') format('embedded-opentype'),
+        url('PlutoBold.woff2') format('woff2'),
+        url('PlutoBold.woff') format('woff'),
+        url('PlutoBold.ttf') format('truetype'),
+        url('PlutoBold.svg#PlutoBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,534 @@
+{ "agencies":
+	[
+		
+		{ 
+		 "agency": "McDonald's Ibn Tachfine" ,
+		 "adress": "Centre commercial Tachfine, boulevard Ibn Tachfine Casablanca", 
+		 "tel":[""], 
+		 "fax":"", 
+		 "lat":"-7.592829", 
+		 "lang":"33.586560",
+		 "ville" : "Casa"
+		},		
+
+		{ 
+		 "agency": "McDonald's Aïn Sebaâ" ,
+		 "adress": "Boulevard Moulay Ismaïl, Casablanca 20250, Maroc", 
+		 "tel":["06 73 82 99 81"], 
+		 "fax":"", 
+		 "lat":"-7.5493", 
+		 "lang":"33.603",
+		 "ville" : "Casa"
+		},
+ 
+
+		{ 
+		 "agency": "McDonald's L'hérmitage" ,
+		 "adress": "Angle Bd modibo keita et allée de l’aude Hérmitage", 
+		 "tel":[""], 
+		 "fax":"", 
+		 "lat":"-7.61482", 
+		 "lang":"33.5623",
+		 "ville" : "Casa"
+		},	
+
+
+		{ 
+		 "agency": "McDonald's 2 Mars" ,
+		 "adress": "Angle rue d’Amsterdam et avenue 2 Mars", 
+		 "tel":["05 22 85 52 82"], 
+		 "fax":"", 
+		 "lat":"-7.61544", 
+		 "lang":"33.5759",
+		 "ville" : "Casa"
+		},
+
+		{ 
+		 "agency": "McDonald's Mers Sultan" ,
+		 "adress": "53, rond point Mers Sultan Casablanca ", 
+		 "tel":["05 22 22 64 59"], 
+		 "fax":"05 22 22 64 59", 
+		 "lat":"-7.61762", 
+		 "lang":"33.5883",
+		 "ville" : "Casa"
+		},
+
+
+
+		{ 
+		 "agency": "McDonald's Mâarif" ,
+		 "adress": "rue du Marché, c. com. ElWassia Casablanca", 
+		 "tel":["05 22 98 13 73"], 
+		 "fax":"05 22 98 13 73", 
+		 "lat":"-7.63497", 
+		 "lang":"33.586",
+		 "ville" : "Casa"
+		},		
+
+
+
+
+		{ 
+		 "agency": "McDonald's Californie" ,
+		 "adress": "McDonald's Californie route de Bouskoura (c.t.1029) Casablanca ", 
+		 "tel":["06 74 91 87 14"], 
+		 "fax":"05 22 52 64 77", 
+		 "lat":"-7.64063", 
+		 "lang":"33.5446",
+		 "ville" : "Casa"
+		},
+
+
+		{ 
+		 "agency": "McDonald's Ziraoui" ,
+		 "adress": "235 Bis, bd Ziraoui Casablanca ", 
+		 "tel":["05 22 48 68 92"], 
+		 "fax":"05 22 48 68 92", 
+		 "lat":"-7.63365", 
+		 "lang":"33.5948",
+		 "ville" : "Casa"
+		},
+
+
+		{ 
+		 "agency": "McDonald's Derb Sultan" ,
+		 "adress": "Bd Mohammed VI ang. Aba Chouaib Doukkali, Marjane Derb Sultan Casablanca ", 
+		 "tel":["05 22 83 68 57"], 
+		 "fax":"05 22 83 68 57", 
+		 "lat":"-7.59426", 
+		 "lang":"33.5629",
+		 "ville" : "Casa"
+		},
+
+
+		{ 
+		 "agency": "McDonald's Corniche" ,
+		 "adress": "Bd de la Corniche Casablanca ", 
+		 "tel":["05 22 39 79 39"], 
+		 "fax":"05 22 39 79 45", 
+		 "lat":"-7.662", 
+		 "lang":"33.6017",
+		 "ville" : "Casa"
+		},
+
+
+		{ 
+		 "agency": "McDonald's Ain Diab" ,
+		 "adress": "Bd de la Corniche Aïn Diab Casablanca ", 
+		 "tel":["05 22 79 85 91"], 
+		 "fax":"05 22 79 86 67", 
+		 "lat":"-7.67791", 
+		 "lang":"33.5961",
+		 "ville" : "Casa"
+		},
+
+
+
+		{ 
+		 "agency": "McDonald's Mohammed V" ,
+		 "adress": "10, bd Mohammed V Casablanca ", 
+		 "tel":["05 22 48 25 36"], 
+		 "fax":"05 22 48 25 36", 
+		 "lat":"-7.61725", 
+		 "lang":"33.5957",
+		 "ville" : "Casa"
+		},	
+
+		{ 
+		 "agency": "Gare LGV Casa Voyageurs" ,
+		 "adress": "Gare LGV Casa Voyageurs, Belvédère", 
+		 "tel":[""], 
+		 "fax":"", 
+		 "lat":"-7.589927", 
+		 "lang":"33.590385",
+		 "ville" : "Casa"
+		},	
+        { 
+		 "agency": "McDonald's Casa port" ,
+		 "adress": "Galerie marchande Casa port, Boulevard Zayid ou Hmad", 
+		 "tel":["0522 27 66 14"], 
+		 "fax":"", 
+		 "lat":"-7.61311", 
+		 "lang":"33.5995",
+		 "ville" : "Casa"
+		},	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        { 
+		 "agency": "McDonald's Dar Bouazza" ,
+		 "adress": "Dar Bouazza", 
+		 "tel":[""], 
+		 "fax":"", 
+		 "lat":"-7.84115", 
+		 "lang":"33.50592",
+		 "ville" : "Dar Bouazza"
+		},	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	   { 
+		 "agency": "McDonald's El Jadida" ,
+		 "adress": "Avenue des nations unies El Jadida", 
+		 "tel":["06 77 42 30 81"], 
+		 "fax":"", 
+		 "lat":"-8.48308", 
+		 "lang":"33.244",
+		 "ville" : "El Jadida"
+	  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+	   { 
+		 "agency": "McDonald's Mohammédia" ,
+		 "adress": "Centre Commercial Marjane Route de Rabat Mohammédia", 
+		 "tel":["0523 32 91 82"], 
+		 "fax":"0523 32 91 82", 
+		 "lat":"-7.35056", 
+		 "lang":"33.7087",
+		 "ville" : "Mohammédia"
+	  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{ 
+		 "agency": "McDonald's Rabat Ville" ,
+		 "adress": "3, av. Amir Moulay Abdallah Rabat", 
+		 "tel":["05 37 20 23 09"], 
+		 "fax":"05 37 20 23 09", 
+		 "lat":"-6.83482", 
+		 "lang":"34.0176",
+		 "ville" : "Rabat"
+		},	
+
+
+		{ 
+		 "agency": "McDonald's Hay Riad" ,
+		 "adress": "Hay Ryad, c. com. Marjane Rabat", 
+		 "tel":["05 37 71 03 17"], 
+		 "fax":"05 37 71 03 17", 
+		 "lat":"-6.85469", 
+		 "lang":"33.9535",
+		 "ville" : "Rabat"
+		},	
+
+		{ 
+		 "agency": "McDonald's Rabat Agdal" ,
+		 "adress": "105, av Al Amir Fal Ould Oumeir Rabat", 
+		 "tel":["05 37 67 01 71"], 
+		 "fax":"06 69 59 92 38", 
+		 "lat":"-6.8476998", 
+		 "lang":"33.9955228",
+		 "ville" : "Rabat"
+		},	
+
+		{ 
+		 "agency": "McDonald's Bab Al Bahr" ,
+		 "adress": "Angle Ouali Al Had Sidi Mohammed et Avenue Sale bourgreg, Avenue de Fès, Salé", 
+		 "tel":["05 37 88 18 30"], 
+		 "fax":"05 37 88 18 35", 
+		 "lat":"-6.8187831", 
+		 "lang":"34.0312584",
+		 "ville" : "Rabat"
+		},
+		{ 
+		 "agency": "McDonald’s Drive Gare LGV Rabat Agdal" ,
+		 "adress": "Avenue Mohamed Triki Gare LGV Agdal Rabat", 
+		 "tel":[""], 
+		 "fax":"", 
+		 "lat":"-6.857545", 
+		 "lang":"34.001585",
+		 "ville" : "Rabat"
+		},
+
+
+
+
+
+
+
+
+
+
+
+	  { 
+		 "agency": "McDonald's Kénitra" ,
+		 "adress": "Forêt mamora entre route de la fourrière et route Assaknia Kénitra", 
+		 "tel":["0537 39 55 83"], 
+		 "fax":"", 
+		 "lat":"-6.57274", 
+		 "lang":"34.2503",
+		 "ville" : "Kénitra"
+	  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     { 
+		 "agency": "McDonald's Fès" ,
+		 "adress": "Avenue de la résistance Place de la Fiat Fès", 
+		 "tel":["05 35 94 00 93"], 
+		 "fax":"05 35 94 01 13", 
+		 "lat":"-4.99598", 
+		 "lang":"34.0443",
+		 "ville" : "Fès"
+	  },
+
+
+
+
+
+
+
+
+
+
+
+
+		{ 
+		 "agency": "McDonald's Temara Acima" ,
+		 "adress": "Avenue Hassan II, Témara", 
+		 "tel":[""], 
+		 "fax":"", 
+		 "lat":"-6.9254886", 
+		 "lang":"33.9199247",
+		 "ville" : "Temara"
+		},	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{ 
+		 "agency": "McDonald's Marrakech Gare" ,
+		 "adress": "Gare ferroviaire Marrakech", 
+		 "tel":["05 24 45 88 27"], 
+		 "fax":"05 24 45 88 27", 
+		 "lat":"-8.01704", 
+		 "lang":"31.6308",
+		 "ville" : "Marrakech"
+		},	
+
+		{ 
+		 "agency": "McDonald's Marrakech Guéliz" ,
+		 "adress": "Bd Mohammed V , place du 16 Novembre Marrakech", 
+		 "tel":["05 24 44 60 19"], 
+		 "fax":"05 24 44 60 19", 
+		 "lat":"-8.00917", 
+		 "lang":"31.6332",
+		 "ville" : "Marrakech"
+		},			
+
+		{ 
+		 "agency": "McDonald's Marrakech Drive" ,
+		 "adress": "bd Abdelkrim El Khattabi ang. rte de Safi Marrakech", 
+		 "tel":["05 24 33 08 01"], 
+		 "fax":"05 24 33 08 01", 
+		 "lat":"-8.01926", 
+		 "lang":"31.6547",
+		 "ville" : "Marrakech"
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{ 
+		 "agency": "McDonald's Tanger Porte" ,
+		 "adress": "Avenue Prince Moulay Abdellah, Tanger, Maroc", 
+		 "tel":[""], 
+		 "fax":"", 
+		 "lat":"-5.80967", 
+		 "lang":"35.7794",
+		 "ville" : "Tanger"
+		},
+		{ 
+		 "agency": "McDonald's Tanger Malabata" ,
+		 "adress": "Bd Mohamed VI route de malabata Tanger", 
+		 "tel":["05 39 30 11 48"], 
+		 "fax":"05 39 30 11 49", 
+		 "lat":"-5.76823", 
+		 "lang":"35.7828",
+		 "ville" : "Tanger"
+		},
+		{ 
+		 "agency": "McDonald's Tanger Marjane" ,
+		 "adress": "Centre Commercial Tanger", 
+		 "tel":["06 79 89 76 27"], 
+		 "fax":"", 
+		 "lat":"-5.84543", 
+		 "lang":"35.7479",
+		 "ville" : "Tanger"
+		},
+
+
+
+
+		{ 
+		 "agency": "McDonald's Meknès" ,
+		 "adress": "Av Moulay Ismail ang. av des Far Meknès", 
+		 "tel":["05 35 40 42 83"], 
+		 "fax":"05 35 40 42 83", 
+		 "lat":"-5.5552", 
+		 "lang":"33.8958",
+		 "ville" : "Meknes"
+		},		
+
+
+
+
+
+
+
+
+		{ 
+		 "agency": "McDonald's Agadir Marjane" ,
+		 "adress": "Marjane founty agadir", 
+		 "tel":["0661531006"], 
+		 "fax":"", 
+		 "lat":"-9.5813", 
+		 "lang":"30.3967",
+		 "ville" : "Agadir"
+		},
+
+		{ 
+		 "agency": "McDonald's Agadir Plage" ,
+		 "adress": "Front de Mer , lot. L1 Agadir", 
+		 "tel":["05 28 72 92 01"], 
+		 "fax":"05 28 72 92 01", 
+		 "lat":"-9.6055", 
+		 "lang":"30.4177",
+		 "ville" : "Agadir"
+		},	
+
+        { 
+		 "agency": "McDonald's Agadir Drive" ,
+		 "adress": "Avenue Mohamed V Agadir", 
+		 "tel":["05 28 82 40 53"], 
+		 "fax":"05 28 82 40 53", 
+		 "lat":"-9.5952", 
+		 "lang":"30.4124",
+		 "ville" : "Agadir"
+		}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+		
+	],
+
+	"casablanca":
+	[
+       { 
+		 "agency": "McDonald's Rabat Agdal" ,
+		 "adress": "105, av Al Amir Fal Ould Oumeir Rabat", 
+		 "tel":["05 37 67 01 71"], 
+		 "fax":"06 69 59 92 38", 
+		 "lat":"-6.83398", 
+		 "lang":"33.9167"
+		}
+	]
+
+}
