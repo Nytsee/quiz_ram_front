@@ -18,7 +18,8 @@ const jFiles = [
     'js/owl.carousel.js',
     'js/materialize.js',
     'js/lity.js',  
-    'js/swiper-bundle.min.js'  
+    'js/swiper-bundle.min.js',
+    'js/html_5_nytsee.js '
 ];
 
 
